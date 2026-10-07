@@ -4,7 +4,7 @@ No começo, あ e お parecem dois parentes que você vive confundindo. Depois d
 
 O **Maru** foi feito para acompanhar essas pequenas vitórias. É um lugar gratuito, em português, para aprender japonês do zero, experimentar o que aprendeu e voltar amanhã para mais um pouquinho.
 
-[**Vem estudar com a gente →**](https://maru-frontend.vercel.app)
+[**Vem estudar com a gente →**](https://estudemaru.com.br)
 
 ## Comece com あ. O café vem depois ☕
 
